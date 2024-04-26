@@ -1,0 +1,21 @@
+.header__button {
+    display: flex;
+    height: 50px;
+    flex: 1 1 auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    background: #333;
+    color: white;
+    max-width: 30%;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    outline: none;
+    border: none;
+
+}
+.active__button {
+    background: #c0a50e;
+    color: white;
+}

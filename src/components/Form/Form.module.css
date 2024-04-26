@@ -1,0 +1,28 @@
+.form {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.input {
+    color: white;
+    height: 2rem;
+    gap: 15px;
+    background: #333;
+}
+
+.textarea {
+    color: white;
+    height: 6rem;
+    background: #333;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 4rem;
+    gap: 15px;
+}
+.label {
+    color: white;
+}
